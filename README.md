@@ -33,3 +33,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leo22-22/leo22-22/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leo22-22/leo22-22/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+
+Adicionando README inicial
